@@ -1,0 +1,4 @@
+Passes baseline tests.
+Passes extended baseline tests.
+Hooray!
+Ooooh, that was super quick, like a ninja!

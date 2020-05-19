@@ -1,0 +1,13 @@
+via uintToListyInt()
+====================
+UINT_MAX + 1: 4294967296
+listyIntToUint(UINT_MAX): 4294967295
+listyIntToUint(UINT_MAX + 1): NULL
+
+
+via stringToListyInt()
+======================
+UINT_MAX + 1 = 4294967296
+listyIntToUint(UINT_MAX): 4294967295
+listyIntToUint(UINT_MAX + 1): NULL
+

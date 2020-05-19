@@ -1,0 +1,5 @@
+1. Probably want to use a hashSet for this assignment
+2. Should probably multiply the sizeof the array list by 8 to make sure that the
+   hashSet never has to expand itself, thus evading the O(n^2) runtime
+3. Look into the "Point" class in java, it may help. But I definitely want to
+   make sure it is not going to wreck my runtime
